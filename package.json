@@ -1,6 +1,6 @@
 {
   "name": "Nefftzy",
-  "version": "1.0.0",
+  "version": "9.1.2",
   "description": "Simple whatsapp bot with multi device.",
   "main": "index.js",
   "directories": {

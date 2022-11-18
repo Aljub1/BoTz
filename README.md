@@ -71,7 +71,7 @@ npm start
   "donasiDana": "083847871545",
   "donasiGopay": "083847871545",
   "sessionName": "session",
-  "pathimg": "./media/neff.jpg",
+  "pathimg": "./media/All.jpg",
   "gamewaktu": 90,
   "limitCount": 25,
   "gcount": {
